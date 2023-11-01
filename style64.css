@@ -1,0 +1,22 @@
+table{
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 1300px;
+    text-align: center;
+    background-color: rgb(35, 33, 33);
+  }
+  body{
+    background-image: url(https://damion.club/uploads/posts/2022-03/1648024392_1-damion-club-p-anime-oboi-cherno-belie-oboi-na-rabochii-s-10.jpg);
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-attachment: fixed;
+}
+main{
+    padding: 0px 100px 0px 100px;
+}
+a{
+  font-style: normal;
+  font-variant: small-caps;
+  font-weight: bolder;
+  font-size: 15px;
+}
